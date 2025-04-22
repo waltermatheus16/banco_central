@@ -1,0 +1,8 @@
+module.exports = {
+  username: 'root',
+  password: 'Estela2010.',  // Substitua pela senha correta
+  database: 'mini_banco_central', // Nome do seu banco de dados
+  host: 'localhost',
+  dialect: 'mysql',
+};
+
